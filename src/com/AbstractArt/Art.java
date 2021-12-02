@@ -1,5 +1,6 @@
 package com.AbstractArt;
 
-public class Art {
-
+//inside of Art.java
+public abstract class Art {
+ // TODO: implement Art class
 }
