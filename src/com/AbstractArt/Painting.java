@@ -1,6 +1,6 @@
 package com.AbstractArt;
 
-public class Paiting extends Art {
+public class Painting extends Art {
 	
 	String paintType;
 	
