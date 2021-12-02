@@ -1,6 +1,17 @@
 package com.AbstractArt;
 
-//inside of Art.java
-public abstract class Art {
- // TODO: implement Art class
+
+public abstract class Art { 
+	
+	String title;
+	String author;
+	String description;
+	
+	
+//	methods
+	
+	public void viewArt() {
+		
+	}
+	
 }
